@@ -1,7 +1,3 @@
-K-means_algorithm_implementation
-IFPE - Campus Recife - 2022.2 - TADS - Inteligência Artificial.
-Atividade avaliativa da disciplina de IA: Implementação do Método K-Means.
-
 Descrição:
   Este código implementa o algoritmo k-means, que é usado para agrupar pontos em k grupos 
 baseados em suas coordenadas. O número de grupos (k) é definido pelo usuário. Inicialmente, 
